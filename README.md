@@ -1,2 +1,2 @@
 # IGCSE_CS_PSEUDOCODE
-All IGCSE pseudocode solutions to activities as tested questions.
+pseudocode solutions to student's activities in All PEARSON EDEXCEL IGCSE(9-1 series).
